@@ -14,9 +14,10 @@
 
     <div class="container">
         <button id="loveButton">kata hati❤️</button>
-        <p id="loveMessage" class="hidden">Aku Mungkin Tidak mengatakan ❤️<br>
-            sepatah kata pun, Tetapi kamu dapat membaca tindakanku,<br>
-            semonga kamu mengerti apa yg akurasakan
+        <p id="loveMessage" class="hidden">apakah kau tak mampu  untuk menentukanngkin? ❤️<br>
+             <br> diantara kaca dan permata.❤️",<br>
+             <br>bertapa telahanmu,,, memaksakanku mengundurkan diri..!<br>
+            
         </p>
     </div>
 
