@@ -1,29 +1,4 @@
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pesan Romantis dengan Latar Belakang Video</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-    <!-- Background Video -->
-    <video autoplay muted loop id="backgroundVideo">
-        <source src="your-video-file.mp4" type="video/mp4">
-        Browser Anda tidak mendukung video.
-    </video>
 
-    <div class="container">
-        <button id="loveButton">kata hati❤️</button>
-        <p id="loveMessage" class="hidden">apakah kau tak mampu  untuk menentukanngkin? ❤️<br>
-             <br> diantara kaca dan permata.❤️",<br>
-             <br>bertapa telahanmu,,, memaksakanku mengundurkan diri..!<br>
-            
-        </p>
-    </div>
-
-    <div id="floatingContainer"></div>
-
-    <script>
         const loveButton = document.getElementById('loveButton');
         const loveMessage = document.getElementById('loveMessage');
         const floatingContainer = document.getElementById('floatingContainer');
